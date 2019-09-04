@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Giving information about Blastoise including it's description, 
+types, weaknesses, and stats-->
+<meta charset ="UTF 8">
+<title>Blastoise</title>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="squirtle.html">Squirtle</a></li>
+            <li><a href="ivysaur.html">Ivysaur</a><li>
+            <li><a href="charizard">Charizard</a><li>
+        </ul>
+    </nav>
+</head>
+<body>
+    <p>Blastoise has water sprouts that protrude from its shell.
+       The water sprouts are very accurate. 
+       They can shoot bullets of water with enough accuracy to 
+       strike empty cans from distance of over 160 feet. 
+    </p>
+    <ul>
+        <li>Type:<strong style=color:lightskyblue>Water</strong></li>
+        <li>Weaknesses:<strong style= color:green>Grass><strong style= color:yellow>Electric></strong></strong></li>
+    </ul>
+
+
+
+</body>
+</html>
