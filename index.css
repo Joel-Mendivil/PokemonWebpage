@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "utf-8";
 /*
     Author: Beckham Le
@@ -7,3 +8,48 @@
 body{
     background-color: black;
 }
+=======
+html {
+	height: 100%;
+	margin: 0; padding: 0; border: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+img#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+header{
+  background-color: white;
+}
+
+ul.l1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+  }
+  
+  li.l1 {
+    float: left;
+  }
+  
+  li.l1 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li.l1 a:hover {
+    background-color: #111;
+  }
+  
+>>>>>>> master
