@@ -57,9 +57,7 @@ ul.l1 {
   li.l1 a:hover {
     background-color: #111;
   }
-<<<<<<< HEAD
   
-=======
   /* Add a black background color to the top navigation bar */
 .topnav {
   overflow: hidden;
@@ -113,4 +111,4 @@ ul.l1 {
     border: 1px solid #ccc;
   }
 }
->>>>>>> master
+
